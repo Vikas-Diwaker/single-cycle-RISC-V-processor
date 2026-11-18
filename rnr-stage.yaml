@@ -63,7 +63,7 @@ modules:
 
   single_cycle_riscv:
     source_files:
-      - Single_Cycle_RISCV/rtl.sv
+      - Single_Cycle_RISCV/rtv.sv
       - IF_Stage/rtl.sv
       - ID_Stage/rtl.sv
       - Decoder/rtl.sv
